@@ -1,0 +1,126 @@
+
+[
+  {
+    "id": 1,
+    "name": "Fitness Website",
+    "category": "Next.js",
+    "year": 2026,
+    "description": "A modern fitness website featuring premium visuals, responsive layouts, and smooth animations to showcase gym services and encourage new memberships.",
+    "image": "https://res.cloudinary.com/f4crzod8/image/upload/v1792175056/kech-fitness-contact-mockup_jivixl.png",
+    "technologies": ["Next.js", "Tailwind CSS", "TypeScript", "Framer Motion"],
+    "liveUrl": "https://kech-fitness-nvizlk6k9-nyoton-codes-projects.vercel.app/"
+    },
+  {
+    "id": 2,
+    "name": "Ecommerce template",
+    "category": "React",
+    "year": 2026,
+    "description": "A gym management dashboard concept with a clean interface designed to organize information and present gym-related data in a clear, accessible way.",
+    "image": "https://res.cloudinary.com/f4crzod8/image/upload/v1792173370/eshop-mockup_yggdna.png",
+    "technologies": ["React", "JavaScript", "Tailwind CSS"],
+    "liveUrl": "https://ecommercetemplate-hrovbyzch-nyoton-codes-projects.vercel.app/"
+   
+  },
+  {
+    "id": 3,
+    "name": "Velaro Cars",
+    "category": "Next.js",
+    "year": 2026,
+    "description": "A premium car rental website showcasing vehicles through polished layouts, automotive imagery, and a user-friendly browsing experience.",
+    "image": "https://res.cloudinary.com/f4crzod8/image/upload/v1792170765/velaro-mockup_sfsyqr.png",
+    "technologies": ["Next.js", "React", "TypeScript", "Tailwind CSS"],
+    "liveUrl": "https://velarocars.vercel.app/"
+  
+  },
+  {
+    "id": 4,
+    "name": "Creative Portfolio",
+    "category": "JavaScript",
+    "year": 2026,
+    "description": "A personal portfolio showcasing creative web designs, modern typography, and carefully structured layouts to present projects and development skills.",
+    "image": "https://res.cloudinary.com/f4crzod8/image/upload/v1792170862/nyoton-mockup_wsn4hm.png",
+    "technologies": ["HTML", "CSS", "JavaScript"],
+    "liveUrl": "https://nyoton-code.github.io/allportfolios/"
+  
+  },
+  {
+    "id": 6,
+    "name": "Hair Brasil",
+    "category": "Next.js",
+    "year": 2026,
+    "description": "An elegant haircare and beauty product website combining a premium visual identity, product-focused presentation, and responsive layouts.",
+    "image": "https://res.cloudinary.com/f4crzod8/image/upload/v1792169113/hair-brasil-mockup_acn2yr.png",
+    "technologies": ["Next.js", "Framer Motion", "Tailwind CSS"],
+    "liveUrl": "https://haribrazil.vercel.app/"
+  },
+  {
+    "id": 7,
+    "name": "Weather Dashboard",
+    "category": "JavaScript",
+    "year": 2026,
+    "description": "A weather application that presents weather information through a clean interface, using API data to make current conditions easy to explore.",
+    "image": "https://res.cloudinary.com/f4crzod8/image/upload/v1792168716/weather-app-mockup_ypoihs.png",
+    "technologies": ["React", "Vite", "API Integration"],
+    "liveUrl": "https://weather-q3xrbo3lc-nyoton-codes-projects.vercel.app/"
+  },
+  {
+    "id": 8,
+    "name": "Pomodoro App",
+    "category": "React",
+    "year": 2026,
+    "description": "A productivity application built around the Pomodoro technique, helping users structure focused work sessions and breaks with a dedicated timer interface.",
+    "image": "https://res.cloudinary.com/f4crzod8/image/upload/v1792173060/pomodoro-mockup_vs5ue8.png",
+    "technologies": ["React", "TypeScript", "Tailwind CSS"],
+    "liveUrl": "https://pomodoro-m9mixmifc-nyoton-codes-projects.vercel.app/"
+  },
+  {
+    "id": 9,
+    "name": "Fitness Center",
+    "category": "Next.js",
+    "year": 2026,
+    "description": "A modern fitness center website designed to present gym facilities and services through a responsive layout and a professional visual style.",
+    "image": "https://res.cloudinary.com/f4crzod8/image/upload/v1792165813/fitness-center-mockup_yad4ec.png",
+    "technologies": ["Next.js", "TypeScript", "Tailwind CSS"],
+    "liveUrl": "https://fitness-centre-bcndun9d5-nyoton-codes-projects.vercel.app"
+  },
+  {
+    "id": 10,
+    "name": "Personal Dashboard",
+    "category": "css",
+    "year": 2026,
+    "description": "A personal dashboard interface presenting information in a structured layout with a focus on usability, visual hierarchy, and straightforward navigation.",
+    "image": "https://res.cloudinary.com/f4crzod8/image/upload/v1792175311/nyoton-dashboard-mockup_kgsi1d.png",
+    "technologies": ["HTML", "CSS"],
+    "liveUrl": "https://nyoton-code.github.io/template-four/index.html"
+  },
+  {
+    "id": 11,
+    "name": "Hangman Game",
+    "category": "JavaScript",
+    "year": 2026,
+    "description": "A classic word-guessing game where players reveal a hidden word by selecting letters while keeping track of incorrect guesses.",
+    "image": "https://res.cloudinary.com/f4crzod8/image/upload/v1792176300/hangman-mockup_vhxqvs.png",
+    "technologies": ["HTML", "CSS", "JavaScript"],
+    "liveUrl": "https://nyoton-code.github.io/hangman/"
+  },
+  {
+    "id": 12,
+    "name": "Block Game",
+    "category": "JavaScript",
+    "year": 2026,
+    "description": "A browser-based block game focused on interactive gameplay, keyboard or mouse input, and responsive visual feedback.",
+    "image": "https://res.cloudinary.com/f4crzod8/image/upload/v1792179271/memory-game-mockup_nvvfel.png",
+    "technologies": ["HTML", "CSS", "JavaScript"],
+    "liveUrl": "https://nyoton-code.github.io/block-game/"
+  },
+  {
+    "id": 13,
+    "name": "One Page Portfolio",
+    "category": "JavaScript",
+    "year": 2026,
+    "description": "A single-page personal portfolio presenting projects and professional information in a compact, responsive design with clear visual sections.",
+    "image": "https://res.cloudinary.com/f4crzod8/image/upload/v1792175345/nyoton-world-mockup_guzizi.png",
+    "technologies": ["HTML", "CSS", "JavaScript"],
+    "liveUrl": "https://nyoton-code.github.io/template-three/"
+    }
+]
