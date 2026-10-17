@@ -1,5 +1,5 @@
 
-const DATA_URL = "../data/data.json";
+const DATA_URL = "/data/data.json";
 
 export async function loadProjects() {
     const response = await fetch(DATA_URL);
