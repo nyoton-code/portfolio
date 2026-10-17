@@ -1,15 +1,21 @@
 
-const DATA_URL = "/data/data.json";
+const DATA_URL = "./data/data.json";
 
 export async function loadProjects() {
-    const response = await fetch(DATA_URL);
+  const url = new URL(DATA_URL, document.baseURI);
 
-    if (!response.ok) {
-        throw new Error(`Failed to load projects: ${response.status}`);
-    }
+  console.log("Current page:", window.location.href);
+  console.log("JSON request URL:", url.href);
 
-    const projects = await response.json();
+  const response = await fetch(url);
 
-    return projects;
+  console.log("Response status:", response.status);
+
+  if (!response.ok) {
+    throw new Error(`Failed to load projects: ${response.status}`);
+  }
+
+  const projects = await response.json();
+  return projects;
 }
 
