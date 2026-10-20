@@ -8,7 +8,7 @@
     "description": "A modern fitness website featuring premium visuals, responsive layouts, and smooth animations to showcase gym services and encourage new memberships.",
     "image": "https://res.cloudinary.com/f4crzod8/image/upload/v1792175056/kech-fitness-contact-mockup_jivixl.png",
     "technologies": ["Next.js", "Tailwind CSS", "TypeScript", "Framer Motion"],
-    "liveUrl": "https://kech-fitness-nvizlk6k9-nyoton-codes-projects.vercel.app/"
+    "liveUrl": "https://kech-fitness.vercel.app/"
     },
   {
     "id": 2,
@@ -18,7 +18,7 @@
     "description": "A gym management dashboard concept with a clean interface designed to organize information and present gym-related data in a clear, accessible way.",
     "image": "https://res.cloudinary.com/f4crzod8/image/upload/v1792173370/eshop-mockup_yggdna.png",
     "technologies": ["React", "JavaScript", "Tailwind CSS"],
-    "liveUrl": "https://ecommercetemplate-hrovbyzch-nyoton-codes-projects.vercel.app/"
+    "liveUrl": "https://ecommercetemplate-drab.vercel.app/"
    
   },
   {
