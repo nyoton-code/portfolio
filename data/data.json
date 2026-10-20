@@ -81,7 +81,7 @@
     "description": "A modern fitness center website designed to present gym facilities and services through a responsive layout and a professional visual style.",
     "image": "https://res.cloudinary.com/f4crzod8/image/upload/v1792165813/fitness-center-mockup_yad4ec.png",
     "technologies": ["Next.js", "TypeScript", "Tailwind CSS"],
-    "liveUrl": "https://fitness-centre-bcndun9d5-nyoton-codes-projects.vercel.app"
+    "liveUrl": "https://fitness-centre-spa.vercel.app/"
   },
   {
     "id": 10,
